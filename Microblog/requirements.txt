@@ -1,0 +1,13 @@
+# virtualenv
+# virtualenvwrapper
+flask
+flask-login
+flask-openid
+flask-mail
+sqlalchemy==0.7.9
+flask-sqlalchemy
+sqlalchemy-migrate
+flask-whooshalchemy
+flask-wtf
+flask-babel
+flup
